@@ -1,24 +1,11 @@
-# School (Project Title)
+  =>  Template Name    : FreeFolio - Freelancer Portfolio Template
 
+  =>  Template Link    : https://htmlcodex.com/freelancer-portfolio-template
 
-https://github.com/preetichouhan/perfecteducation.github.io.git
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-Project Description
+  =>  Template Author  : HTML Codex
 
-School is a Education Website it contains the info about the different course.This website is very usefull all peoples,stutents, businessman, citizen, teachers, child, collage student. profeesor etc. this website all websites link and all important govt. websites. 
+  =>  Author Website   : https://htmlcodex.com
 
-
-
-Language Used:
-
-Html5
-CSS3
-Bootstarp4
-
-
-Credits
-
-Team XYZ 
-
-Preeti Chouhan
-Suhail Nawaz
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
